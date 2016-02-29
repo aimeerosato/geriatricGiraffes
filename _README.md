@@ -1,6 +1,6 @@
-# Project Name
+# Hack Overflow
 
-> Pithy project description
+> A technical forum for the Hack Reactor Remote Community to share their expertise
 
 ## Team
 
